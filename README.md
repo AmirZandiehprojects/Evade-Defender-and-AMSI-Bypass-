@@ -1,4 +1,4 @@
-# Evade-Defender-and-AMSI-Bypass-
+# Evade-Defender-and-AMSI-Bypass-Mimikatz
 This comprehensive script:
 
 Bypasses security controls:
